@@ -87,16 +87,6 @@ Built an NLP-powered resume screening system capable of automated candidate rank
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=HarshithaReddy1-4\&show_icons=true\&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=HarshithaReddy1-4\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaReddy1-4\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/harshitha-reddy-08968b35b](http://www.linkedin.com/in/harshitha-reddy-08968b35b)
