@@ -1,22 +1,34 @@
 # Hi 👋, I'm Harshitha Reddy
 
-### AI/ML Enthusiast | Software Developer | Problem Solver
+### AI/ML Engineer in Progress | Software Developer | Problem Solver
 
-🎓 B.Tech CSE (AI & ML) Student
+🎓 B.Tech in Computer Science Engineering (AI & ML)
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Agentic AI, and Full-Stack Development
+📍 Hyderabad, Telangana, India
 
-🚀 Currently building AI-powered applications and exploring Agentic AI frameworks
+💡 Passionate about Artificial Intelligence, Machine Learning, Agentic AI, and Full-Stack Development.
 
-📚 Solved 300+ Data Structures & Algorithms problems on LeetCode
+🚀 Building AI-powered applications and solving real-world problems through software.
 
-🌱 Currently Learning:
+📈 Solved 300+ DSA problems on LeetCode.
 
-* Agentic AI
-* LangGraph
-* MERN Stack
-* System Design
-* Advanced DSA
+🎯 Currently preparing for AI/ML and Software Engineering internships.
+
+---
+
+## 🧠 About Me
+
+* 🎓 B.Tech CSE (AI & ML) Student
+* 📊 Current CGPA: **9.28**
+* 🤖 Interested in AI Engineering, Machine Learning, NLP, and Agentic AI
+* 🌱 Currently learning:
+
+  * LangGraph
+  * CrewAI
+  * MERN Stack
+  * System Design
+  * Advanced DSA
+* 💻 Enjoy building AI and Full-Stack projects
 
 ---
 
@@ -24,70 +36,76 @@
 
 ### Languages
 
-* Python
-* Java
-* SQL
-* JavaScript
+Python • Java • C • SQL • JavaScript
 
-### AI & ML
+### AI / ML
 
-* Machine Learning
-* LangChain
-* LangGraph
-* CrewAI
-* LLM Applications
+Machine Learning • Deep Learning • NLP • Predictive Analytics
+
+### Libraries & Frameworks
+
+NumPy • Pandas • Scikit-Learn • Matplotlib
 
 ### Web Development
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
+HTML • CSS • JavaScript • MERN Stack
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* Postman
+Git • GitHub • VS Code • MySQL
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Talent Match Engine
+### 📊 Student Performance Predictor
 
-AI-powered system that matches candidates with job requirements using NLP and Machine Learning.
+Machine Learning regression system developed using Python, Pandas, and Scikit-Learn that predicts student performance with 87% accuracy.
 
-### 🌾 Farm Equipment Recommendation System
+### 📄 Resume Screening System (NLP)
 
-Expert system using Forward and Backward Chaining for intelligent agricultural equipment recommendations.
-
-### 📊 Database Schema Normalizer
-
-Automatically converts database schemas into higher normal forms using Python and SQL.
-
-### 🎓 College ERP Development Planner
-
-Agentic AI system that analyzes requirements and generates software development roadmaps.
+Built an NLP-powered resume screening system capable of automated candidate ranking with 80–90% relevance. AI-powered recruitment platform that intelligently matches candidates with job descriptions using NLP and Machine Learning.
 
 ---
 
-## 📈 Coding Profiles
+## 🏆 Achievements
 
-* LeetCode: 300+ Problems Solved
-* GitHub: Active Open Source Learner
-* Focus Areas: DSA, AI Engineering, Backend Development
+* ⭐ 310+ Problems Solved on LeetCode
+* 📚 10+ repositories
+* 🤖 Multiple AI/ML Projects Completed
 
 ---
 
-## 📫 Connect With Me
+## 📜 Certifications
 
-* LinkedIn: [www.linkedin.com/in/harshitha-reddy-3576402ba](http://www.linkedin.com/in/harshitha-reddy-3576402ba)
+* CS50X – Harvard University
+* CS50P – Harvard University
+* Programming in Python – NPTEL
+* Programming in Java – NPTEL
+* Introduction to Artificial Intelligence – NPTEL
+* Introduction to Machine Learning – NPTEL
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HarshithaReddy1-4\&show_icons=true\&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=HarshithaReddy1-4\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaReddy1-4\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/harshitha-reddy-08968b35b](http://www.linkedin.com/in/harshitha-reddy-08968b35b)
+* GitHub: github.com/HarshithaReddy1-4
+* LeetCode: leetcode.com/u/HarshithaReddy1-4
 * Email: [harshithareddy1476@gmail.com](mailto:harshithareddy1476@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
 
-I enjoy turning AI ideas into real-world applications and continuously learning new technologies.
+I enjoy combining AI with software engineering to build practical solutions that solve real-world problems.
