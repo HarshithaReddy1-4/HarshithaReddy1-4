@@ -70,8 +70,9 @@ Built an NLP-powered resume screening system capable of automated candidate rank
 
 ## 🏆 Achievements
 
-* ⭐ 310+ Problems Solved on LeetCode
-* 📚 10+ repositories
+* ✌️Secured Placement at ***Infosys*** for ***DSE Role*** with ***7 LPA***
+* ⭐ 330+ Problems Solved on LeetCode
+* 📚 15+ repositories
 * 🤖 Multiple AI/ML Projects Completed
 
 ---
@@ -90,8 +91,8 @@ Built an NLP-powered resume screening system capable of automated candidate rank
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/harshitha-reddy-08968b35b](http://www.linkedin.com/in/harshitha-reddy-08968b35b)
-* GitHub: github.com/HarshithaReddy1-4
-* LeetCode: leetcode.com/u/HarshithaReddy1-4
+* GitHub: [https://www.github.com/HarshithaReddy1-4](https://www.github.com/HarshithaReddy1-4)
+* LeetCode: [https://www.leetcode.com/u/HarshithaReddy1-4](https://www.leetcode.com/u/HarshithaReddy1-4)
 * Email: [harshithareddy1476@gmail.com](mailto:harshithareddy1476@gmail.com)
 
 ---
