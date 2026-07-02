@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech CSE (AI & ML) Student
-* 📊 Current CGPA: **9.28**
+* 📊 Current CGPA: **9.31**
 * 🤖 Interested in AI Engineering, Machine Learning, NLP, and Agentic AI
 * 🌱 Currently learning:
 
