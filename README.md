@@ -10,7 +10,7 @@
 
 🚀 Building AI-powered applications and solving real-world problems through software.
 
-📈 Solved 300+ DSA problems on LeetCode.
+📈 Solved 360+ DSA problems on LeetCode.
 
 🎯 Currently preparing for AI/ML and Software Engineering internships.
 
@@ -71,7 +71,7 @@ Built an NLP-powered resume screening system capable of automated candidate rank
 ## 🏆 Achievements
 
 * ✌️Secured Placement at ***Infosys*** for ***DSE Role*** with ***7 LPA***
-* ⭐ 330+ Problems Solved on LeetCode
+* ⭐ 360+ Problems Solved on LeetCode
 * 📚 15+ repositories
 * 🤖 Multiple AI/ML Projects Completed
 
