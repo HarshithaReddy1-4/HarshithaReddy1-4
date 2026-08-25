@@ -10,7 +10,7 @@
 
 🚀 Building AI-powered applications and solving real-world problems through software.
 
-📈 Solved 360+ DSA problems on LeetCode.
+📈 Solved 420+ DSA problems on LeetCode.
 
 🎯 Currently preparing for AI/ML and Software Engineering internships.
 
